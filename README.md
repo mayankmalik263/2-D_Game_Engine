@@ -1,4 +1,3 @@
-```markdown
 # 2D Game Engine in Java
 
 #### Project Overview
@@ -189,4 +188,3 @@ For questions or issues regarding this project, please contact your course instr
 
 **Last Updated**: March 2026
 **Project Status**: Active Development
-```
